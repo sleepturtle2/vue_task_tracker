@@ -1,18 +1,14 @@
-# task-tracker
+# Task Tracker
 
 ## Project setup
 ```
+git clone https://github.com/sleepturtle2/vue_task_tracker.git
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+npm run backend
+
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
 ### Customize configuration
